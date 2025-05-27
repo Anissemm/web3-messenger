@@ -26,3 +26,4 @@ npm start
   - Остальные поля можно оставить пустыми.
   - Сохраните сеть.
 - Импортируйте один из аккаунтов, предоставленных локальной сетью Hardhat, используя приватные ключи из терминала, где запущен npx hardhat node.
+- ![alt text](https://raw.githubusercontent.com/anissemm/web3-messenger/a2ebef51c9d2ca6a068533500625c79c292a716f/assets/Screenshot_2025-05-26_at_9.26.52_PM.png)
